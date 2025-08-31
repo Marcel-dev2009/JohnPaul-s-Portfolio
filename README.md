@@ -10,7 +10,17 @@
 * Contact
 # About
 $ Mr.John Paul is a Film Producer with a passion for storytelling and bringing creative visions to life. With experience in [Film Production , Directing and acting], they aim to produce compelling films that inspire, entertain, and resonate with audiences worldwide.
-
+# Tools Used
+ * TypeScript
+ * Next.js
+ * Email.js
+ * Shadcn.UI
+ * Type-Writer effect
+ * Lucide-react
+ * React-Icons
+ * CSS
+ * Javascript
+ *  
 # Skills
  * Languages & Background: Nigerian , Igbo and Nollywood moviestar
  * Design Tools: [Lighting and movie shooting Cameraset]
