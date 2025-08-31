@@ -39,3 +39,8 @@ Feel free to reach out to Mr.John Paul:
 Portfolio Website: []
 
 # Project -- Demo
+* # Code
+* ![Demo Animation 2](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWN1NWduZ3J6MmRxZ3FtOTE3am9xd2dwdnZseHo0NGc5NWZidG9sNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8LqBg4nVpM9QD8NZR3/giphy.gif)
+#
+*  # Demo
+* ![Demo Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUxZDN4YWVubnhkejY4M2pydnFpemFwenVqZWZrbHZ6bGU1ZzI3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jMWAiht3yn9LlvabsM/giphy.gif)
