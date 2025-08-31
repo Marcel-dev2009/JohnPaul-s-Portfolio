@@ -40,7 +40,7 @@ export default function Projects() {
        const Narrow = useWidth(768);
   return (
    <>
-   <div className="overflow-x-hidden">
+   <div className="overflow-x-hidden overflow-y-auto">
      <div className="grid place-content-center">
      <Type2/>
      </div>
