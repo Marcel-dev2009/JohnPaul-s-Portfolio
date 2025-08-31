@@ -44,3 +44,6 @@ Portfolio Website: []
 #
 *  # Demo
 * ![Demo Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXUxZDN4YWVubnhkejY4M2pydnFpemFwenVqZWZrbHZ6bGU1ZzI3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jMWAiht3yn9LlvabsM/giphy.gif)
+
+Thank you for visiting Mr JohnPaul's  portfolio. We hope you find the work inspiring!  
+To get Your Very own custom website contact the developer [📩 Chat with me on WhatsApp](https://wa.me/2349122049914?text=I%20need%20my%20very%20own%20custom%20website)
