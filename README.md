@@ -1,30 +1,31 @@
   
 # Portfolio of Mr. John Paul
- ## Welcome to the personal portfolio of Mr.John Paul! This repository showcases their work, projects, and professional experiences in [Film Production , directing and acting ].
+ * Welcome to the personal portfolio of Mr.John Paul! This repository showcases their work, projects, and professional experiences in
+ * [Film Production , directing and acting ].
 
 # Table of Contents
-1 : Carrer Overview
-2 : Service-Details
-3 : Skills
-4 : Contact
+* Carrer Overview
+* Service-Details
+* Skills
+* Contact
 # About
-Mr.John Paul is a Film Producer with a passion for storytelling and bringing creative visions to life. With experience in [Film Production , Directing and acting], they aim to produce compelling films that inspire, entertain, and resonate with audiences worldwide.
+$ Mr.John Paul is a Film Producer with a passion for storytelling and bringing creative visions to life. With experience in [Film Production , Directing and acting], they aim to produce compelling films that inspire, entertain, and resonate with audiences worldwide.
 
 # Skills
-Languages & Background: Nigerian , Igbo and Nollywood moviestar
-Design Tools: [Lighting and movie shooting Cameraset]
-Other Skills: [ Choroegraphy writing , content writing, etc.]
+ * Languages & Background: Nigerian , Igbo and Nollywood moviestar
+ * Design Tools: [Lighting and movie shooting Cameraset]
+ * Other Skills: [ Choroegraphy writing , content writing, etc.]
 # Contact
 Feel free to reach out to Mr.John Paul:
 
-Insatgram: [https://instagram.com/Johnpaulnwanganga1]
+* Insatgram: [https://instagram.com/Johnpaulnwanganga1]
 
-Facebook: [https://facebook.com/JP-Nwanganga]
+* Facebook: [https://facebook.com/JP-Nwanganga]
 
-Tiktok: [https://www.tiktok.com/@JP-Nwanganga]
+* Tiktok: [https://www.tiktok.com/@JP-Nwanganga]
 
-Tel: [tel:+2347065483866]
+* Tel: [tel:+2347065483866]
 
 Portfolio Website: []
 
-##Project -- Demo
+# Project -- Demo
