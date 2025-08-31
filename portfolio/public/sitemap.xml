@@ -5,4 +5,8 @@
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-</urlset>
+  <url>
+    <loc>https://jpaulco.vercel.app/projects</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>

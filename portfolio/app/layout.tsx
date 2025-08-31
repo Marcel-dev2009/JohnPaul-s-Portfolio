@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "John Paul Nwanganga - NollyWood Movie Director",
   description: "The official portfolio of John Paul Nwanganga, a NollyWood movie director.",
   verification :{
-    google : "xlwM-qGHkTCuDIkG-Zfap1Rih1r0XEeYoAAZIRZW3uk"
+    google : "xlwM-qGHkTCuDIkG-Zfap1Rih1r0XEeYoAAZIRZW3uk" 
   }
 };
 
