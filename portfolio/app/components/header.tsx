@@ -49,7 +49,7 @@ export default function Header() {
           </ul> 
           )}
       </div>
-      <div className='absolute top-0 px-10 md:right-70 md:top-4'>
+      <div className='absolute top-0 hidden px-10 md:block md:right-70 md:top-4'>
           <Theme/>
       </div>
     </div>

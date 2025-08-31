@@ -22,9 +22,9 @@ export default function SideBar() {
    <nav className="text-white mt-[7rem] px-6 py-2">
       <ul className="flex flex-col gap-4">
      <Link href='/' className="border px-20 py-2 rounded-md">Home</Link> <br />
-     <Link href='/Contact' className="border px-20 py-2 rounded-md">Contact</Link> <br />
-     <Link href='/Menu' className="border px-20 py-2 rounded-md whitespace-nowrap">Menu</Link> <br />
-     <Link href='/Login' className="border px-20 py-2 rounded-md whitespace-nowrap">Sign In</Link> <br />
+     <Link href='#about' className="border px-20 py-2 rounded-md">About</Link> <br />
+     <Link href='/projects' className="border px-20 py-2 rounded-md whitespace-nowrap">Projects</Link> <br />
+
      </ul>    
    </nav>
  </motion.div>     
