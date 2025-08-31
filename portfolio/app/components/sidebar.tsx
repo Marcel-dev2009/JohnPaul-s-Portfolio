@@ -18,9 +18,9 @@ export default function SideBar() {
  initial={{width : 0}}
  animate={{width : '256px'}}
   transition={{duration : 0.5 , delay:0.1 , ease: 'easeInOut'}}
-  className={` fixed top-0 right-0 h-screen z-30 w-64 bg-blue-950 rounded-tl-lg rounded-bl-lg`}>
+  className={` fixed top-0 right-0 h-screen z-30 w-64 dark:bg-black bg-white rounded-tl-lg rounded-bl-lg`}>
    <nav className="text-white mt-[7rem] px-6 py-2">
-      <ul className="flex flex-col gap-4">
+      <ul className="flex flex-col gap-4 dark:text-white text-black ">
      <Link href='/' className="border px-20 py-2 rounded-md">Home</Link> <br />
      <Link href='#about' className="border px-20 py-2 rounded-md">About</Link> <br />
      <Link href='/projects' className="border px-20 py-2 rounded-md whitespace-nowrap">Projects</Link> <br />
