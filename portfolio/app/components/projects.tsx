@@ -77,7 +77,7 @@ export default function Projects() {
            <div>
                <h2 className="text-center text-3xl font-bold">Our Mission</h2> <br />
             <p className="text-center font-bold">Our mission is to educate, inspire, and promote positive values through engaging storytelling.</p>
-             <div className={` ${ Narrow ? "translate-x-7" : "ml-90"} border dark:border-white/5 transform shadow-lg border-gray-600 rounded-lg h-auto w-[50%]  mb-10 mt-6`}>
+             <div className={` ${ Narrow ? "w-full" : "ml-90"} border dark:border-white/5 transform shadow-lg border-gray-600 rounded-lg h-auto w-[50%]  mb-10 mt-6`}>
              <div  className="py-3 border-b dark:border-b-white/5 border-b-gray-600 ">
            <h3 className=" ml-[7rem] whitespace-nowrap md:translate-x-40 transform font-bold ">Our Achievements</h3>
             <p className={`${Narrow ? 'ml-[2rem] whitespace-nowrap w-full' : 'translate-x-45 transform '}`}>Over 50+ movies produced internationally</p>
@@ -87,7 +87,7 @@ export default function Projects() {
              <Link href="www.facebook.com"> <FaFacebookF  className={`text-blue-500/25 transition duration-300 hover:scale-50 ${Narrow ? 'text-2xl' : 'text-6xl'}`}/></Link>
               <Link href="www.instagram.com"><FaInstagramSquare  className={`text-pink-500/25 transition duration-300 hover:scale-50 ${Narrow ? 'text-2xl' : 'text-6xl'}`}/></Link>
             <Link href="www.wikipedia.com">   <FaWikipediaW  className={`text-gray-500/25 transition duration-300 hover:scale-50 ${Narrow ? 'text-2xl' : 'text-6xl'}`}/></Link>
-              <span className="mt-5">+5 More....</span>
+              <span className={` ${Narrow ? 'text-[0.5rem] px-4]' : 'text-[1.5rem]'}mt-5`}>+5 More....</span>
              </div> 
 
             </div> 

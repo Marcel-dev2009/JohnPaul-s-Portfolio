@@ -69,7 +69,7 @@ export default function Body() {
               </p>
              <Image src={bodyImg} alt="JohnPaul Nwanganga" className={`absolute right-6 border dark:border-white/5 border-gray-600 rounded-lg h-auto transform mt-4 ${Narrow ? 'translate-y-[20rem] translate-x-7' : ''} `}/>
            </div>
-        <div className="grid place-content-center dark:opacity-[0.05] opacity-[0.3]"> 
+        <div className={` ${ Narrow ? "translate-x-2 overflow-x-hidden" : ""}transform grid place-content-center dark:opacity-[0.05] opacity-[0.3] `}> 
           <Image src={Jp} alt="John Paul Nwanganga" loading="lazy"/>
         </div>
          </article> <br />
